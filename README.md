@@ -1,6 +1,6 @@
 # Lending Club: Machine Learning to Predict Loan Interest Rates 
 
-**Project Goal - ML Regression models to predict the interest rate for a given loan application.**
+**Project Goal - Using ML regression models to predict the interest rate for a given loan application.**
  
 **ML Algorithms Used:**
 * Linear Regression 
